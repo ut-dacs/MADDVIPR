@@ -1,0 +1,16 @@
+---
+install:
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
+
+script:
+  - hugo
+
+deploy:
+  provider: pages
+  local-dir: public
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
+  keep-history: true
+  on:
+    branch: master
