@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "MADDVIPR/"
+baseurl = "https://ut-dacs.github.io/MADDVIPR/"
 languageCode = "en"
 
 title = "MADDVIPR"
