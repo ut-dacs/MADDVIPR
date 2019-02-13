@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on MADDVIPR</title>
-    <link>MADDVIPR/categories/</link>
+    <link>https://ut-dacs.github.io/MADDVIPR/categories/</link>
     <description>Recent content in Categories on MADDVIPR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="MADDVIPR/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ut-dacs.github.io/MADDVIPR/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Article</title>
-      <link>MADDVIPR/categories/article/</link>
+      <link>https://ut-dacs.github.io/MADDVIPR/categories/article/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>MADDVIPR/categories/article/</guid>
+      <guid>https://ut-dacs.github.io/MADDVIPR/categories/article/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General</title>
-      <link>MADDVIPR/categories/general/</link>
+      <link>https://ut-dacs.github.io/MADDVIPR/categories/general/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>MADDVIPR/categories/general/</guid>
+      <guid>https://ut-dacs.github.io/MADDVIPR/categories/general/</guid>
       <description></description>
     </item>
     
