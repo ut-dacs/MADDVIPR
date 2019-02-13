@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MADDVIPR</title>
+    <link>https://example.com/</link>
+    <description>Recent content on MADDVIPR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://example.com/posts/migrate-from-jekyll/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/migrate-from-jekyll/</guid>
+      <description> Work in progress </description>
+    </item>
+    
+    <item>
+      <title>About MADDVIPR</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Distributed Denial of Service (DDoS) attacks are one of the most disruptive attacks in today&amp;rsquo;s Internet. These types of attacks are even more effective and more dangerous when they involve and misuse Internet infrastructure and services.
+One of the targets of these attacks is the Domain Name System (DNS). The DNS is a fundamental pillar of the Internet&amp;rsquo;s core infrastructure, and its role is crucial not only for the translation of human-readable names into IP addresses but also for supporting plenty of widely used Internet applications, such as e-mail, VoIP, etc.</description>
+    </item>
+    
+    <item>
+      <title>Contact Us</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>Work in Progress</description>
+    </item>
+    
+    <item>
+      <title>References</title>
+      <link>https://example.com/state/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/state/</guid>
+      <description>Bibliograpy and State of the Art Measurements Brownlee, Nevil, Kimberly C Claffy, and Evi Nemeth. 2001. “DNS Measurements at a Root Server.” In Global Telecommunications Conference, 2001. Globecom’01. Ieee, 3:1672–6. IEEE.
+Benson, Karyn, Alberto Dainotti, kc claffy, Alex C. Snoeren, and Michael Kallitsis. 2015. “Leveraging Internet Background Radiation for Opportunistic Network Analysis.” In Proceedings of the 2015 Internet Measurement Conference, 423–36. IMC ’15. New York, NY, USA: ACM. doi:10.1145&amp;frasl;2815675.2815702.</description>
+    </item>
+    
+    <item>
+      <title>DERA</title>
+      <link>https://example.com/portfolio/dera/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/portfolio/dera/</guid>
+      <description>This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems. DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of run-time evolution and adaptation (i.e., enabling run-time flexibility) while minimizing the non-deterministic nature of traditional event-based applications (i.e., supporting formal analysis).</description>
+    </item>
+    
+    <item>
+      <title>hyde-hyde</title>
+      <link>https://example.com/portfolio/hyde-hyde/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/portfolio/hyde-hyde/</guid>
+      <description>Hyde-hyde is a responsive Hugo theme inspired by @spf13&amp;rsquo;s Hyde and its variant Nate Finch&amp;rsquo;s blog. It was heavily restructured with modularised page layouts for easier maintenance and modification. Hyde-hyde offers awesome features such as nice colour tone, code highlighting, Font-Awesome 5&amp;rsquo;s sidebar icons), a cool portfolio page, more choices for commenting (e.g. GraphComment, Disqus).</description>
+    </item>
+    
+    <item>
+      <title>LaraMod</title>
+      <link>https://example.com/portfolio/laramod/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/portfolio/laramod/</guid>
+      <description>LaraMod is another modularisation effort to systematically organising a Laravel based project. The idea stems from my struggle to structure a Laravel-based project so that I can work effectively on individual modules whilst keeping Laravel codebase intact as much as possible and also keeping the project&amp;rsquo;s codebase separate from Laravel.</description>
+    </item>
+    
+    <item>
+      <title>MADDVIPR DeadLine and Deliverables</title>
+      <link>https://example.com/deadline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/deadline/</guid>
+      <description>Statement of Work    Task Description Outcome Lead Date DHS Date NWO Status     Year1 Identifying DNS Single-Points-of-Failure Vulnerabilities        D1.1 Background research on DNS vulnerabilities Report UT Jan 31, 2019 N/A    Q1.0 Preliminary Quarterly Report Report CAIDA Dec 31, 2018 N/A Delivered   Q1.1 1° Quarterly Report Report UT Mar 31, 2019 Feb 28,2019    Q1.</description>
+    </item>
+    
+  </channel>
+</rss>
