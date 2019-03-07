@@ -1,9 +1,9 @@
 ## Basic Configuration
-baseurl = "/MADDVIPR/"
+#baseurl = "/MADDVIPR/"
 languageCode = "en"
 
 title = "MADDVIPR"
-theme = "hyde-hyde"
+theme = "terrassa"
 
 ## Hugo Built-in Features
 # disqusShortname = "your-disqus-shortname"

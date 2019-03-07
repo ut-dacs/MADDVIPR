@@ -3,21 +3,21 @@ title = "References"
 date = "2019-02-09"
 +++
 
-### Bibliograpy and State of the Art
+# Bibliograpy and State of the Art
 
-#### Measurements
+## Measurements
 
 Brownlee, Nevil, Kimberly C Claffy, and Evi Nemeth. 2001. “DNS Measurements at a Root Server.” In _Global Telecommunications Conference, 2001. Globecom’01. Ieee_, 3:1672–6. IEEE.
 
 Benson, Karyn, Alberto Dainotti, kc claffy, Alex C. Snoeren, and Michael Kallitsis. 2015. “Leveraging Internet Background Radiation for Opportunistic Network Analysis.” In _Proceedings of the 2015 Internet Measurement Conference_, 423–36. IMC ’15. New York, NY, USA: ACM. doi:[10.1145/2815675.2815702](https://doi.org/10.1145/2815675.2815702).
 
-#### DNS as Source of Attacks
+## DNS as Source of Attacks
 
 Rijswijk-Deij, Roland van, Anna Sperotto, and Aiko Pras. 2014. “DNSSEC and Its Potential for Ddos Attacks: A Comprehensive Measurement Study.” In _Proceedings of the 2014 Conference on Internet Measurement Conference_, 449–60. IMC ’14. New York, NY, USA: ACM. doi:[10.1145/2663716.2663731](https://doi.org/10.1145/2663716.2663731).
 
 Krämer, Lukas, Johannes Krupp, Daisuke Makita, Tomomi Nishizoe, Takashi Koide, Katsunari Yoshioka, and Christian Rossow. n.d. “AmpPot: Monitoring and Defending Against Amplification Ddos Attacks.”
 
-#### DNS as Destination of Attacks
+## DNS as Destination of Attacks
 
 
 Jonker, Mattijs, Alistair King CAIDA, and Christian Rossow. 2017. “A Third of the Internet Is Under Attack : A Macroscopic Characterization of the Dos Ecosystem.” In.
@@ -30,7 +30,7 @@ Moura, Giovane, Ricardo de O Schmidt, John Heidemann, Wouter B de Vries, Moritz 
 
 Pappas, Vasileios, Dan Massey, and Lixia Zhang. 2007. “Enhancing Dns Resilience Against Denial of Service Attacks.” In, 450–59. doi:[10.1109/DSN.2007.42](https://doi.org/10.1109/DSN.2007.42).
 
-#### DNS Misconfiguration and Vulnerabilities
+## DNS Misconfiguration and Vulnerabilities
 
 Barili, A., and D. Lanterna. 2015. “On the Effects of Large-Scale Dns Poisoning.” In _2015 Ieee Conference on Communications and Network Security (Cns)_, 723–24. doi:[10.1109/CNS.2015.7346904](https://doi.org/10.1109/CNS.2015.7346904).
 
