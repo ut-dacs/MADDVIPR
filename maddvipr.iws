@@ -2,124 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="436e4446-21c8-4cb4-a66c-b5c53e88bb2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maddvipr.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maddvipr.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maddvipr.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/article/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/article/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/article/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/general/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/general/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/general/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/contact/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/css/bundle.min.950495f5f4205a3badd4985fc6304fd3a542d60c19d887811f5bda031fa6e166720d6e92b26bbc2372cf280e3d136c3831ebdb872c82967694eba048875bf2d5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/deadline/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/undraw_freelancer_b0my.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/img/hugo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/bundle.min.9aa161734d8d364fbafdf8ee2def390bf097c69464c1561c1b8e7eb8768017fe67cf60902c99bc1c798215f71c0e4a3c7eabc215d0149fe64c91764fc445f5d6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/portfolio/dera/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/portfolio/hyde-hyde/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/portfolio/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/portfolio/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/portfolio/laramod/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/portfolio/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/posts/migrate-from-jekyll/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/posts/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/state/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/work/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/work/index.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/tags/work/page/1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/bundle.css_3d041b08546090308b2e5d3a88088713.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/css/css/bundle.css_3d041b08546090308b2e5d3a88088713.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_3d041b08546090308b2e5d3a88088713.content" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/_gen/assets/js/js/bundle.js_3d041b08546090308b2e5d3a88088713.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/customtable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/archetypes/default.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/archetypes/page.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/archetypes/section.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/assets/css/animations.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/assets/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/assets/css/media-queries.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/assets/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/assets/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/assets/js/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/assets/js/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/about.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/contact/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/posts/16-things-free-songs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/posts/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/posts/bad-architects.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/posts/game-websites/images/dummy-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/posts/game-websites/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/posts/preventative-medicines.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/sections/simple-choices.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/sections/simple-people.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/sections/simple-values.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/exampleSite/content/sections/simple.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/images/blog-screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/images/screenshot.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/images/tn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/_default/baseof.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/_default/card.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/_default/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/_default/single.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/_default/tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/contact/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/cta-btn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/hamburger-menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/hero.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/scripts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/section.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/sections.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/separator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/partials/styles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/layouts/shortcodes/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/static/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/static/images/undraw_freelancer_b0my.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/static/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/theme.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/terrassa/usage.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/deadline.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/deadline.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/portfolio/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/portfolio/dera.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/portfolio/dera.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/portfolio/dera.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/portfolio/hyde-hyde.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/portfolio/hyde-hyde.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/portfolio/hyde-hyde.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/portfolio/laramod.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/portfolio/laramod.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/portfolio/laramod.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/state.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/state.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maddvipr.iws" beforeDir="false" afterPath="$PROJECT_DIR$/maddvipr.iws" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -130,18 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/content/_index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/deadline.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -186,11 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/terrassa/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="872">
               <caret line="594" lean-forward="true" selection-start-line="594" selection-end-line="594" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -242,6 +123,7 @@
         <option value="$PROJECT_DIR$/themes/terrassa/assets/css/base.css" />
         <option value="$PROJECT_DIR$/themes/terrassa/layouts/shortcodes/table.html" />
         <option value="$PROJECT_DIR$/themes/terrassa/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -353,7 +235,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551960961189" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551961155147" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -381,15 +263,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551952048095</updated>
-      <workItem from="1551952049239" duration="5225000" />
+      <workItem from="1551952049239" duration="5381000" />
     </task>
+    <task id="LOCAL-00001" summary="new themes">
+      <created>1551960999503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551960999504</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5225000" />
+    <option name="totallyTimeSpent" value="5381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1175" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -556,6 +447,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="872">
           <caret line="594" lean-forward="true" selection-start-line="594" selection-end-line="594" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

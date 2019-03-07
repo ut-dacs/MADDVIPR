@@ -1,5 +1,5 @@
 ## Basic Configuration
-#baseurl = "/MADDVIPR/"
+baseurl = "/MADDVIPR/"
 languageCode = "en"
 
 title = "MADDVIPR"
