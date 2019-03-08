@@ -1,5 +1,5 @@
 +++
-title = "Contact Us"
+title = "People"
 date = "2019-02-09"
 +++
 
