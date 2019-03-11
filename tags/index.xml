@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MADDVIPR</title>
-    <link>/MADDVIPR/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on MADDVIPR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="/MADDVIPR/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Work</title>
-      <link>/MADDVIPR/tags/work/</link>
+      <link>/tags/work/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/MADDVIPR/tags/work/</guid>
+      <guid>/tags/work/</guid>
       <description></description>
     </item>
     

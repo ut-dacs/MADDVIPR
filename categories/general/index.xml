@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>General on MADDVIPR</title>
-    <link>/MADDVIPR/categories/general/</link>
+    <link>/categories/general/</link>
     <description>Recent content in General on MADDVIPR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/MADDVIPR/categories/general/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/general/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>/MADDVIPR/posts/migrate-from-jekyll/</link>
+      <link>/posts/migrate-from-jekyll/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/MADDVIPR/posts/migrate-from-jekyll/</guid>
+      <guid>/posts/migrate-from-jekyll/</guid>
       <description> Work in progress </description>
     </item>
     

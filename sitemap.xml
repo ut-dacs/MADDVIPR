@@ -3,65 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/MADDVIPR/posts/migrate-from-jekyll/</loc>
+    <loc>/posts/migrate-from-jekyll/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/MADDVIPR/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/MADDVIPR/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/MADDVIPR/state/</loc>
+    <loc>/state/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/MADDVIPR/categories/article/</loc>
+    <loc>/categories/article/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/MADDVIPR/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/MADDVIPR/categories/general/</loc>
+    <loc>/categories/general/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/MADDVIPR/</loc>
+    <loc>/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/MADDVIPR/deadline/</loc>
+    <loc>/deadline/</loc>
   </url>
   
   <url>
-    <loc>/MADDVIPR/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/MADDVIPR/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/MADDVIPR/tags/work/</loc>
+    <loc>/tags/work/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
