@@ -8,9 +8,9 @@ title = "MADDVIPR DeadLine and Deliverables"
 
 | Task | Description | Outcome | Lead | Date | Status |
 |------|------------------------------------------------------------|---------|--------|----------------|-----------|
-|D1.1| **Background research on DNS vulnerabilities** | Report | UT | Jan 31, 2019 | N/A |    |
-|Q1.0| Preliminary Quarterly Report  | Report  | CAIDA | Dec 31, 2018 | Delivered |
-|Q1.1| 1° Quarterly Report  | Report | UT | Mar 31, 2019  | |
+|D1.1| **Background research on DNS vulnerabilities** | Report | UT | Jan 31, 2019 | [Delivered] (documents/SToA.pdf) |    |
+|Q1.0| Preliminary Quarterly Report  | Report  | CAIDA | Dec 31, 2018 | Delivered [DHS] (documents/Y1Q0_CAIDA.pdf) |
+|Q1.1| 1° Quarterly Report  | Report | UT | Mar 31, 2019  | Delivered [NWO] (documents/Y1Q1_NWO.pdf) [DHS] (documents/Y1Q1_CAIDA.pdf) |
 |Q1.2| 2° Quarterly Report  | Report | UT | Jun 30, 2019  | |
 |Q1.3| 3° Quarterly Report  | Report | UT | Set 30, 2019  | |
 |D1.2| **Identify DNS single-points-of-failure** | Report | UT | Oct 31, 2019  | |
