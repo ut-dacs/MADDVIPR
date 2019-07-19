@@ -36,10 +36,10 @@ theme = "terrassa"
     url = "/posts/"
 
 [[menu.main]]
-    name = "References"
+    name = "Poster"
     weight = 250
-    identifier = "state"
-    url = "/state/"
+    identifier = "poster"
+    url = "/poster/"
 [[menu.main]]
     name = "People"
     identifier = "contact"

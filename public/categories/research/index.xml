@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>research on MADDVIPR</title>
+    <link>/categories/research/</link>
+    <description>Recent content in research on MADDVIPR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>It&#39;s Time To Lie The DNS TTL Mismatch Problem</title>
+      <link>/poster/tma2019/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/poster/tma2019/</guid>
+      <description>It’s Time To Lie: The DNS TTL Mismatch Problem The Domain Name System is a hierarchical decentralized and distributed database. The information available in the DNS are supposed to be coherent through the whole hierarchy. Nevertheless, it could be possible to have non-coherent data at various levels of the DNS architecture. This happens due to misconfiguration or administrative choice of DNS Server owners. In this case, the most authoritative information should be used.</description>
+    </item>
+    
+  </channel>
+</rss>
