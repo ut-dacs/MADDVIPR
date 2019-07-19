@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tma on MADDVIPR</title>
+    <link>/tags/tma/</link>
+    <description>Recent content in Tma on MADDVIPR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/tma/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TMA 2019 Paris</title>
+      <link>/posts/tmaparis2019/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/tmaparis2019/</guid>
+      <description>This week, Raffaele attended to TMA 2019 Paris PhD School and Conference and presented a poster on DNS Time To Live Mismatch Problem.
+It was an amazing experience, with a lot of interesting workshops in the PhD School and interesting papers and posters presented at the conference.
+Below you can find the abstract and the poster.
+It’s Time To Lie: The DNS TTL Mismatch Problem The Domain Name System is a hierarchical decentralized and distributed database.</description>
+    </item>
+    
+  </channel>
+</rss>
