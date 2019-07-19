@@ -3,8 +3,9 @@ date: 2019-06-20
 linktitle: TMA 2019 Paris
 title: TMA 2019 Paris
 weight: 10
+author: Raffaele
 categories: [ "article", "general" ]
-tags: ["work"]
+tags: ["paris", "tma"]
 ---
 <img src="/images/paris.jpg"; width="600" /></a>
 This week, Raffaele attended to TMA 2019 Paris PhD School and Conference and presented a poster on DNS Time To Live Mismatch Problem.

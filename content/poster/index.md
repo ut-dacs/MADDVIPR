@@ -16,3 +16,5 @@ tags: ["work"]
 
 <a href="/poster/ictopen.pdf"><img src="/poster/ictopen.png"; width="200" /></a>
 
+<a href="/state/"> Related State of the Art </a>
+

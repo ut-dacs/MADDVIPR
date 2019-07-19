@@ -12,8 +12,8 @@ theme = "terrassa"
 
 # summarylength = 30
 
-#paginate = 5
-
+paginate = 5
+author = "Raffaele"
 
 ## Social Accounts
 [params.social]
@@ -50,3 +50,8 @@ theme = "terrassa"
     identifier = "about"
     weight = 100
     url = "/about/"
+[params.posts]
+    showAuthor = true
+    showDate = true
+    showTags = true
+    dateFormat = "Monday, Jan, 2006"

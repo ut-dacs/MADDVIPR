@@ -3,8 +3,9 @@ date: 2019-03-20
 linktitle: 'First Conference: ICT OPEN 2019'
 title: 'First Conference: ICT OPEN 2019'
 weight: 10
+author: Raffaele
 categories: [ "article", "general" ]
-tags: ["work"]
+tags: ["netherlands", "ICT.OPEN"]
 ---
 
 The MADDVIPR project attended the first conference :)

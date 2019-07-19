@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>It&#39;s Time To Lie The DNS TTL Mismatch Problem</title>
-      <link>/poster/tma2019/</link>
+      <title>Poster</title>
+      <link>/poster/</link>
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/poster/tma2019/</guid>
-      <description>It’s Time To Lie: The DNS TTL Mismatch Problem The Domain Name System is a hierarchical decentralized and distributed database. The information available in the DNS are supposed to be coherent through the whole hierarchy. Nevertheless, it could be possible to have non-coherent data at various levels of the DNS architecture. This happens due to misconfiguration or administrative choice of DNS Server owners. In this case, the most authoritative information should be used.</description>
+      <guid>/poster/</guid>
+      <description>TMA2019 
+CSNG 2019 and ICT.OPEN2019 
+Related State of the Art {{ relref . &amp;ldquo;state.md&amp;rdquo; }}</description>
     </item>
     
   </channel>

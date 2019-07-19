@@ -3,6 +3,7 @@ date: 2019-02-10
 linktitle: Hello World! MADDVIPR
 title: Hello World! MADDVIPR
 weight: 10
+author: Raffaele
 categories: [ "article", "general" ]
 tags: ["work"]
 ---

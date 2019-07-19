@@ -10,10 +10,10 @@ theme = "terrassa"
 # googleAnalytics = "your-google-analytics-id"
 # enableRobotsTXT = true
 
-# summarylength = 30
+# summarylength = 4
 
-#paginate = 5
-
+paginate = 5
+author = "Raffaele"
 
 ## Social Accounts
 [params.social]
@@ -36,10 +36,10 @@ theme = "terrassa"
     url = "/posts/"
 
 [[menu.main]]
-    name = "References"
+    name = "Poster"
     weight = 250
-    identifier = "state"
-    url = "/state/"
+    identifier = "poster"
+    url = "/poster/"
 [[menu.main]]
     name = "People"
     identifier = "contact"
@@ -50,3 +50,8 @@ theme = "terrassa"
     identifier = "about"
     weight = 100
     url = "/about/"
+[params.posts]
+    showAuthor = true
+    showDate = true
+    showTags = true
+    dateFormat = "Monday, Jan, 2006"
