@@ -31,7 +31,7 @@ It’s Time To Lie: The DNS TTL Mismatch Problem The Domain Name System is a hie
       <guid>/poster/</guid>
       <description>TMA2019 
 CSNG 2019 and ICT.OPEN2019 
-Related State of the Art {{ relref . &amp;ldquo;state.md&amp;rdquo; }}</description>
+Related State of the Art</description>
     </item>
     
     <item>
@@ -69,7 +69,9 @@ One of the targets of these attacks is the Domain Name System (DNS). The DNS is 
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/contact/</guid>
-      <description>Work in Progress</description>
+      <description>##Raffaele Sommese
+####(Ph.D. student, DACS group, University of Twente)
+Raffaele Sommese is a Ph.D. Candidate at the University of Twente. He received his M.Sc. (cum laude) in Computer Engineering from Politecnico di Torino in 2018, with a thesis titled &amp;ldquo;Boosting the performance of NFV services with SmartNIC&amp;rdquo; and his B.Sc. (cum laude) in Computer Engineering from University of Naples Federico II, with a thesis titled &amp;ldquo;An SDN-based setup for active measurements in mobile networks&amp;rdquo;.</description>
     </item>
     
     <item>

@@ -12,11 +12,47 @@
     
     
     <item>
-      <title>work</title>
-      <link>/tags/work/</link>
+      <title>paris</title>
+      <link>/tags/paris/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
+      <guid>/tags/paris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tma</title>
+      <link>/tags/tma/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>work</title>
+      <link>/tags/work/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
       <guid>/tags/work/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ICT.OPEN</title>
+      <link>/tags/ict.open/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ict.open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>netherlands</title>
+      <link>/tags/netherlands/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/netherlands/</guid>
       <description></description>
     </item>
     
