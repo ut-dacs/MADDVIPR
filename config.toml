@@ -36,7 +36,7 @@ author = "Raffaele"
     url = "/posts/"
 [[menu.main]]
     name = "Paper"
-    weight = 200
+    weight = 220
     identifier = "paper"
     url = "/paper/"
 [[menu.main]]
