@@ -64,6 +64,15 @@ One of the targets of these attacks is the Domain Name System (DNS). The DNS is 
     </item>
     
     <item>
+      <title>Paper</title>
+      <link>/paper/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/</guid>
+      <description>When Parents and Children Disagree: Diving into DNS Delegation Inconsistency Raffaele Sommese, Giovane Moura, Mattijs Jonker, Roland van Rijswijk-Deij, Alberto Dainotti, Kimberly Claffy, Anna Sperotto PAM2020 Passive and Active Measurement Conference The Domain Name System (DNS) is a hierarchical, decentralized, and distributed database. A key mechanism that enables the DNS to be hierarchical and distributed is delegation [7] of responsibility from parent to child zones—typically managed by different entities. RFC1034 [12] states that authoritative nameserver (NS) records at both parent and child should be “consistent and remain so”, but we find inconsistencies for over 13M second-level domains.</description>
+    </item>
+    
+    <item>
       <title>People</title>
       <link>/contact/</link>
       <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
