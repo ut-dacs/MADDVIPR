@@ -13,15 +13,15 @@ title = "MADDVIPR DeadLine and Deliverables"
 |Q1.1| 1° Quarterly Report  | Report | UT | Mar 31, 2019  | Delivered [NWO] (documents/Y1Q1_NWO.pdf) [DHS] (documents/Y1Q1_CAIDA.pdf) |
 |Q1.2| 2° Quarterly Report  | Report | UT | Jun 30, 2019  | Delivered [NWO] (documents/Y1Q2_NWO.pdf) [DHS] (documents/Y1Q2_CAIDA.pdf)|
 |Q1.3| 3° Quarterly Report  | Report | UT | Set 30, 2019  | Delivered [NWO] (documents/Y1Q3_NWO.pdf) [DHS] (documents/Y1Q3_CAIDA.pdf)|
-|D1.2| **Identify DNS single-points-of-failure** | Report | UT | Oct 31, 2019  | Delivered (Not Published)|
-|Q1.4| 4° Quarterly Report  | Report | UT | Dec 31, 2019  | |
+|D1.2| **Identify DNS single-points-of-failure** | Report | UT | Oct 31, 2019  | Delivered (Not Public)|
+|Q1.4| 4° Quarterly Report  | Report | UT | Dec 31, 2019  | Delivered [NWO] (documents/Y1Q4_NWO.pdf) [DHS] (documents/Y1Q4_CAIDA.pdf)|
 
 
 ### Year 2
 
 | Task | Description | Outcome | Lead | Date | Status |
 |------|------------------------------------------------------------|---------|--------|----------------|-----------|
-|Q2.1| 5° Quarterly Report  | Report | UT | Mar 31, 2020  | |
+|Q2.1| 5° Quarterly Report  | Report | UT | Mar 31, 2020  | Delivered [NWO] (documents/Y2Q1_NWO.pdf)|
 |D2.1| **Develop strategies to make OpenINTEL data available via IMPACT** | Report | CAIDA | Apr 30, 2020  ||
 |Q2.2| 6° Quarterly Report  | Report | UT | Jun 30, 2020  | |
 |Q2.3| 7° Quarterly Report  | Report | UT | Set 30, 2020  | |
