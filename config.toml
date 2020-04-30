@@ -34,7 +34,11 @@ author = "Raffaele"
     weight = 200
     identifier = "posts"
     url = "/posts/"
-
+[[menu.main]]
+    name = "Paper"
+    weight = 200
+    identifier = "paper"
+    url = "/paper/"
 [[menu.main]]
     name = "Poster"
     weight = 250
