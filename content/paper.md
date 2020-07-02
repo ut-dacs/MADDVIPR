@@ -15,3 +15,27 @@ The Domain Name System (DNS) is a hierarchical, decentralized, and distributed d
 
 <a href="https://academia.r4ffy.info/paper/SommesePam2020.pdf">Download</a>
 
+## The Forgotten Side of DNS: Orphan and Abandoned Records
+
+### Raffaele Sommese, Mattijs Jonker, Roland van Rijswijk-Deij, Alberto Dainotti, Kimberly Claffy, Anna Sperotto
+
+#### WTMC2020 5th International Workshop on Traffic Measurements for Cybersecurity 
+
+
+DNS zone administration is a complex task involving manual work and several entities and can therefore
+result in misconfigurations. Orphan records are one of these
+misconfigurations, in which a glue record for a delegation
+that does not exist anymore is forgotten in the zone file.
+Orphan records are a security hazard to third-party domains
+that have these records in their delegation, as an attacker
+may easily hijack such domains by registering the domain
+associated with the orphan. The goal of this paper is to
+quantify this misconfiguration, extending previous work by
+Kalafut et al., by identifying a new type of glue record
+misconfiguration – which we refer to as abandoned records –
+and by performing a broader characterization. Our results
+highlight how the situation has changed, not always for the
+better, compared to a decade-old study.
+
+<a href="https://academia.r4ffy.info/paper/SommeseWTMC2020.pdf">Download</a>
+
