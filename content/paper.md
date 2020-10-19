@@ -39,3 +39,35 @@ better, compared to a decade-old study.
 
 <a href="https://academia.r4ffy.info/paper/SommeseWTMC2020.pdf">Download</a>
 
+## Manycast2 -- Using Anycast to Measure Anycast
+### Raffaele Sommese, Leandro Bertholdo, Gautam Akiwate, Mattijs Jonker, Roland van Rijswijk-Deij, Alberto Dainotti, Kimberly Claffy, Anna Sperotto]
+#### IMC2020 ACM Internet Measurement Conference
+
+
+Anycast addressing -- assigning the same IP address to multiple, 
+distributed devices -- has become a fundamental approach to improving
+the resilience and performance of Internet services, but its conventional 
+deployment model makes it impossible to infer from the address itself 
+that it is anycast. Existing methods to detect anycast IPv4 prefixes 
+present accuracy challenges stemming from routing and latency dynamics, 
+and efficiency and scalability challenges related to measurement load. 
+We review these challenges and introduce a new technique we call MAnycast2 
+that can help overcome them. Our technique uses a distributed measurement 
+platform of anycast vantage points as sources to probe potential anycast 
+destinations. This approach eliminates any sensitivity to latency dynamics,
+and greatly improves efficiency and scalability. We discuss alternatives
+to overcome remaining challenges relating to routing dynamics, suggesting
+a path toward establishing the capability to complete, in under 3 hours,
+a full census of which IPv4 prefixes in the ISI hitlist are anycast."
+
+<a href="https://academia.r4ffy.info/paper/SommeseIMC2020.pdf">Download</a>
+
+
+## Unresolved Issues: Prevalence, Persistence, and Perils of Lame Delegations
+### Gautam Akiwate, Mattijs Jonker, Raffaele Sommese, Ian Foster, Geoffrey M Voelker, Stefan Savage, KC Claffy
+#### IMC2020 ACM Internet Measurement Conference
+
+
+The modern Internet relies on the Domain Name System (DNS) to convert between human-readable domain names and IP addresses. However, the correct and efficient implementation of this function is jeopardized when the configuration data binding domains, nameservers and glue records is faulty. In particular lame delegations, which occur when a nameserver responsible for a domain is unable to provide authoritative information about it, introduce both performance and security risks. We perform a broad-based measurement study of lame delegations, using both longitudinal zone data and active querying. We show that lame delegations of various kinds are common (affecting roughly 14% of domains we queried), that they can significantly degrade lookup latency (when they do not lead to outright failure), and that they expose hundreds of thousands of domains to adversarial takeover. We also explore circumstances that give rise to this surprising prevalence of lame delegations, including unforeseen interactions between the operational procedures of registrars and registries."
+
+<a href="https://academia.r4ffy.info/paper/AkiwateIMC2020.pdf">Download</a>
