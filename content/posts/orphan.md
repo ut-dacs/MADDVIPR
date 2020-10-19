@@ -1,7 +1,7 @@
 ---
 date: 2020-09-20
-linktitle: Orphan Records: Fixing Afilias Zones
-title: Orphan Records: Fixing Afilias Zones
+linktitle: Orphan Records - Fixing Afilias Zones
+title: Orphan Records - Fixing Afilias Zones
 weight: 10
 author: Raffaele
 categories: [ "article", "paper" ]
