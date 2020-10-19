@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pam on MADDVIPR</title>
+    <link>/tags/pam/</link>
+    <description>Recent content in Pam on MADDVIPR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pam/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SuperDNS - Diving into DNS delegation inconsistency</title>
+      <link>/posts/parent-child/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/parent-child/</guid>
+      <description>Our work on delegation inconsistency: &amp;ldquo;When parents and children disagree: Diving into DNS delegation inconsistency&amp;rdquo; presented at PAM2020 and at RIPE80 raised a lot of interest in the DNS community. There is a new Internet draft on the DNSOP WG that addresses this inconsistency issue: https://tools.ietf.org/html/draft-huque-dnsop-ns-revalidation As requested by one of the draft’s authors, we provide here a similar setup as used in our paper, so developers can test their resolvers.</description>
+    </item>
+    
+  </channel>
+</rss>

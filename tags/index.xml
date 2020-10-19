@@ -6,10 +6,19 @@
     <description>Recent content in Tags on MADDVIPR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Conference</title>
+      <link>/tags/conference/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/conference/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ict.open</title>
@@ -26,6 +35,24 @@
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/netherlands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orphan</title>
+      <link>/tags/orphan/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/orphan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pam</title>
+      <link>/tags/pam/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pam/</guid>
       <description></description>
     </item>
     
