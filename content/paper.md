@@ -40,7 +40,7 @@ better, compared to a decade-old study.
 <a href="https://academia.r4ffy.info/paper/SommeseWTMC2020.pdf">Download</a>
 
 ## Manycast2 -- Using Anycast to Measure Anycast
-### Raffaele Sommese, Leandro Bertholdo, Gautam Akiwate, Mattijs Jonker, Roland van Rijswijk-Deij, Alberto Dainotti, Kimberly Claffy, Anna Sperotto]
+### Raffaele Sommese, Leandro Bertholdo, Gautam Akiwate, Mattijs Jonker, Roland van Rijswijk-Deij, Alberto Dainotti, Kimberly Claffy, Anna Sperotto
 #### IMC2020 ACM Internet Measurement Conference
 
 
@@ -71,3 +71,16 @@ a full census of which IPv4 prefixes in the ISI hitlist are anycast."
 The modern Internet relies on the Domain Name System (DNS) to convert between human-readable domain names and IP addresses. However, the correct and efficient implementation of this function is jeopardized when the configuration data binding domains, nameservers and glue records is faulty. In particular lame delegations, which occur when a nameserver responsible for a domain is unable to provide authoritative information about it, introduce both performance and security risks. We perform a broad-based measurement study of lame delegations, using both longitudinal zone data and active querying. We show that lame delegations of various kinds are common (affecting roughly 14% of domains we queried), that they can significantly degrade lookup latency (when they do not lead to outright failure), and that they expose hundreds of thousands of domains to adversarial takeover. We also explore circumstances that give rise to this surprising prevalence of lame delegations, including unforeseen interactions between the operational procedures of registrars and registries."
 
 <a href="https://academia.r4ffy.info/paper/AkiwateIMC2020.pdf">Download</a>
+
+
+## Characterization of Anycast Adoption in the DNS Authoritative Infrastructure
+### Raffaele Sommese, Gautam Akiwate, Mattijs Jonker, Giovane C. M. Moura, Marco Davids, Roland van Rijswijk-Deij, Geoffrey M. Voelker, Stefan Savage, Kimberly C. Claffy, Anna Sperotto
+#### TMA2021 Network Traffic Measurement and Analysis Conference
+
+
+
+Anycast has proven to be an effective mechanism to enhance resilience in the DNS ecosystem and for scaling DNS nameserver capacity, both in authoritative and the recursive resolver infrastructure. Since its adoption for root servers, anycast has mitigated the impact of failures and DDoS attacks on the DNS ecosystem. In this work, we quantify the adoption of anycast to support authoritative domain name service for toplevel and second-level domains (TLDs and SLDs). Comparing two comprehensive anycast census datasets in 2017 and 2021, with DNS measurements captured over the same period, reveals that anycast adoption is increasing, driven by a few large operators. While anycast offers compelling resilience advantage, it also shifts some resilience risk to other aspects of the infrastructure. We discuss these aspects, and how the pervasive use of anycast merits a re-evaluation of how to measure DNS resilience.
+
+<a href="http://dl.ifip.org/db/conf/tma/tma2021/tma2021-paper1.pdf">Download</a>
+
+
