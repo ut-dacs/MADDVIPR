@@ -6,10 +6,20 @@
     <description>Recent content on MADDVIPR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best Paper Award at TMA2021</title>
+      <link>/posts/bestpaper/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bestpaper/</guid>
+      <description>We’re proud to announce that our PhD candidate Raffaele Sommese has won the Best Paper Award at TMA 2021 for his paper entitled “Characterization of Anycast Adoption in the DNS Authoritative Infrastructure”.
+The paper, co-authored with colleagues from UC San Diego, SIDN Labs and CAIDA, studies the evolving adoption of anycast by authoritative name servers in the DNS. As a core infrastructure, the continuous availability of the DNS is of critical importance, and the adoption of anycast can help improve the availability of the DNS.</description>
+    </item>
     
     <item>
       <title>Orphan Records - Fixing Afilias Zones</title>

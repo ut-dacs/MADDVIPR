@@ -6,7 +6,7 @@
     <description>Recent content in Categories on MADDVIPR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Article</title>
       <link>/categories/article/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/article/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Paper</title>
       <link>/categories/paper/</link>
-      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>/categories/paper/</guid>
       <description></description>
