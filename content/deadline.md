@@ -36,7 +36,7 @@ title = "MADDVIPR DeadLine and Deliverables"
 |------|------------------------------------------------------------|---------|--------|----------------|-----------|
 |D3.1| **Describe actionable information to be provided as output**  | Report | Joint | Jan 31, 2021  |  Delivered (documents/ActionableInfo.pdf) |
 |Q3.1| 9° Quarterly Report  | Report | UT | Mar 31, 2021  | Delivered [Joint] (documents/Y3Q1_NWO.pdf) |
-|D3.2| **Design the MADDVIPR framework** | Software | UT | Delivered [Joint] (documents/maddvipr.pdf)|
+|D3.2| **Design the MADDVIPR framework** | Software | UT | Apr 30, 2021 | Delivered [Joint] (documents/maddvipr.pdf)|
 |Q3.2| 10° Quarterly Report  | Report | UT | Jun 30, 2021  | Delivered [Joint] (documents/Y3Q2_NWO.pdf) |
 |Q3.3| 11° Quarterly Report  | Report | UT | Set 30, 2021  | Delivered [Joint] (documents/Y3Q3_NWO.pdf) |
 |D3.3| **Prototype MADDVIPR**    | Software | UT | Oct 31, 2021 | Delivered [Joint] (documents/maddvipr.pdf) |
