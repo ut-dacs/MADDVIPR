@@ -22,7 +22,7 @@ title = "MADDVIPR DeadLine and Deliverables"
 | Task | Description | Outcome | Lead | Date | Status |
 |------|------------------------------------------------------------|---------|--------|----------------|-----------|
 |Q2.1| 5° Quarterly Report  | Report | UT | Mar 31, 2020  | Delivered [Joint] (documents/Y2Q1_NWO.pdf)|
-|D2.1| **Develop strategies to make OpenINTEL data available via IMPACT** | Report | CAIDA | Apr 30, 2020  ||
+|D2.1| **Develop strategies to make OpenINTEL data available via IMPACT** | Report | CAIDA | Apr 30, 2020  | IMPACT decommisioned |
 |Q2.2| 6° Quarterly Report  | Report | UT | Jun 30, 2020  | Delivered [Joint] (documents/Y2Q2_NWO.pdf) |
 |Q2.3| 7° Quarterly Report  | Report | UT | Set 30, 2020  | Delivered [Joint] (documents/Y2Q3_NWO.pdf) |
 |D2.2| **Design and prototype DNSAttackStream** | Software | CAIDA | Set 30, 2020  | Delivered [Joint] (documents/DNSAttackStream.pdf) |
@@ -34,7 +34,7 @@ title = "MADDVIPR DeadLine and Deliverables"
 
 | Task | Description | Outcome | Lead | Date | Status |
 |------|------------------------------------------------------------|---------|--------|----------------|-----------|
-|D3.1| **Describe actionable information to be provided as output**  | Report | Joint | Jan 31, 2021  |  Delivered (documents/ActionableInfo.pdf) |
+|D3.1| **Describe actionable information to be provided as output**  | Report | Joint | Jan 31, 2021  |  Delivered [Joint] (documents/ActionableInfo.pdf) |
 |Q3.1| 9° Quarterly Report  | Report | UT | Mar 31, 2021  | Delivered [Joint] (documents/Y3Q1_NWO.pdf) |
 |D3.2| **Design the MADDVIPR framework** | Software | UT | Apr 30, 2021 | Delivered [Joint] (documents/maddvipr.pdf)|
 |Q3.2| 10° Quarterly Report  | Report | UT | Jun 30, 2021  | Delivered [Joint] (documents/Y3Q2_NWO.pdf) |
