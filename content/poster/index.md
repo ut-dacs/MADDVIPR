@@ -1,7 +1,7 @@
 ---
 date: 2019-06-14
-linktitle: Poster
-title: Poster
+linktitle: Posters
+title: Posters
 weight: 10
 categories: [ "poster", "research" ]
 tags: ["work"]

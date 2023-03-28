@@ -1,5 +1,5 @@
 +++
-title = "Paper"
+title = "Papers"
 date = "2019-02-09"
 +++
 

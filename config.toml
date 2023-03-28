@@ -30,19 +30,19 @@ author = "Raffaele"
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "Contributions and Awards"
     weight = 200
     identifier = "posts"
     url = "/posts/"
 [[menu.main]]
-    name = "Paper"
+    name = "Papers"
     weight = 220
-    identifier = "paper"
+    identifier = "papers"
     url = "/paper/"
 [[menu.main]]
-    name = "Poster"
+    name = "Posters"
     weight = 250
-    identifier = "poster"
+    identifier = "posters"
     url = "/poster/"
 [[menu.main]]
     name = "People"
