@@ -45,6 +45,11 @@ author = "Raffaele"
     identifier = "posters"
     url = "/poster/"
 [[menu.main]]
+    name = "Outreach"
+    weight = 280
+    identifier = "Outreach"
+    url = "/outreach/"
+[[menu.main]]
     name = "People"
     identifier = "contact"
     weight = 300
