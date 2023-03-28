@@ -9,6 +9,10 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-20.04
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ref: master
       - name: Install Hugo
         run: |
           wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
