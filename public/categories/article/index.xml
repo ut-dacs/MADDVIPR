@@ -6,10 +6,39 @@
     <description>Recent content in article on MADDVIPR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/article/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Best Paper Award at TMA2021</title>
+      <link>/posts/bestpaper/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/bestpaper/</guid>
+      <description>We’re proud to announce that our PhD candidate Raffaele Sommese has won the Best Paper Award at TMA 2021 for his paper entitled “Characterization of Anycast Adoption in the DNS Authoritative Infrastructure”.
+The paper, co-authored with colleagues from UC San Diego, SIDN Labs and CAIDA, studies the evolving adoption of anycast by authoritative name servers in the DNS. As a core infrastructure, the continuous availability of the DNS is of critical importance, and the adoption of anycast can help improve the availability of the DNS.</description>
+    </item>
+    
+    <item>
+      <title>Orphan Records - Fixing Afilias Zones</title>
+      <link>/posts/orphan/</link>
+      <pubDate>Sun, 20 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/orphan/</guid>
+      <description>Our work on orphan records: &amp;ldquo;The forgotten side of DNS: orphan and abandoned records&amp;rdquo; presented at WTMC2020 and at OARC33 raised a lot of interest in the DNS community. Afilias, which owns some of the TLDs affected by the orphan misconfiguration acknowledge the problem and is working on to fixing it .
+Afilias to Protect TLDs Against Potential Orphan Glue Exploits</description>
+    </item>
+    
+    <item>
+      <title>SuperDNS - Diving into DNS delegation inconsistency</title>
+      <link>/posts/parent-child/</link>
+      <pubDate>Sat, 20 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/parent-child/</guid>
+      <description>Our work on delegation inconsistency: &amp;ldquo;When parents and children disagree: Diving into DNS delegation inconsistency&amp;rdquo; presented at PAM2020 and at RIPE80 raised a lot of interest in the DNS community. There is a new Internet draft on the DNSOP WG that addresses this inconsistency issue: https://tools.ietf.org/html/draft-huque-dnsop-ns-revalidation As requested by one of the draft’s authors, we provide here a similar setup as used in our paper, so developers can test their resolvers.</description>
+    </item>
     
     <item>
       <title>TMA 2019 Paris</title>
