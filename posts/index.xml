@@ -40,36 +40,5 @@ Afilias to Protect TLDs Against Potential Orphan Glue Exploits</description>
       <description>Our work on delegation inconsistency: &amp;ldquo;When parents and children disagree: Diving into DNS delegation inconsistency&amp;rdquo; presented at PAM2020 and at RIPE80 raised a lot of interest in the DNS community. There is a new Internet draft on the DNSOP WG that addresses this inconsistency issue: https://tools.ietf.org/html/draft-huque-dnsop-ns-revalidation As requested by one of the draft’s authors, we provide here a similar setup as used in our paper, so developers can test their resolvers.</description>
     </item>
     
-    <item>
-      <title>TMA 2019 Paris</title>
-      <link>/posts/tmaparis2019/</link>
-      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/tmaparis2019/</guid>
-      <description>This week, Raffaele attended to TMA 2019 Paris PhD School and Conference and presented a poster on DNS Time To Live Mismatch Problem.
-It was an amazing experience, with a lot of interesting workshops in the PhD School and interesting papers and posters presented at the conference.
-Below you can find the abstract and the poster.
-It’s Time To Lie: The DNS TTL Mismatch Problem The Domain Name System is a hierarchical decentralized and distributed database.</description>
-    </item>
-    
-    <item>
-      <title>First Conference: ICT OPEN 2019</title>
-      <link>/posts/ictopen2019/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/ictopen2019/</guid>
-      <description>The MADDVIPR project attended the first conference :) Raffaele presented a poster on the state of the art of DNS vulnerability and misconfiguration to ICT.OPEN 2019
-ICT.OPEN is the event for ICT researchers and industry stakeholders. More than 500 scientists and researchers from different ICT Industry come to share information and meet new people. It was an amazing experience and we receive a lot of feedback on our work.</description>
-    </item>
-    
-    <item>
-      <title>Hello World! MADDVIPR</title>
-      <link>/posts/helloworld/</link>
-      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/helloworld/</guid>
-      <description>Hello World! MADDVIPR The MADDVIPR website project is becoming functional. In this website, you will find all the information regarding the project, the poster and the paper presented to the various conference and the information regarding the team.</description>
-    </item>
-    
   </channel>
 </rss>

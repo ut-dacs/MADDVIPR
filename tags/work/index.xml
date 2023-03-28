@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Poster</title>
+      <title>Posters</title>
       <link>/poster/</link>
       <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -20,15 +20,6 @@
       <description>IMC2022  Extended Abstract 
 TMA2019 
 CSNG 2019 and ICT.OPEN2019</description>
-    </item>
-    
-    <item>
-      <title>Hello World! MADDVIPR</title>
-      <link>/posts/helloworld/</link>
-      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/helloworld/</guid>
-      <description>Hello World! MADDVIPR The MADDVIPR website project is becoming functional. In this website, you will find all the information regarding the project, the poster and the paper presented to the various conference and the information regarding the team.</description>
     </item>
     
   </channel>
