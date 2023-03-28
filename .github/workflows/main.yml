@@ -13,8 +13,10 @@ jobs:
         run: |
           wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.52/hugo_0.52_Linux-64bit.deb
           sudo dpkg -i /tmp/hugo.deb
+      - name: Build Site pre
+        run: ls -lah
       - name: Build Site
-        run: hugo
+        run: hugo --config config.toml
       - name: Deploy Site
         uses: JamesIves/github-pages-deploy-action@4.1.1
         with:
