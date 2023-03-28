@@ -3,6 +3,12 @@ title = "Outreach"
 date = "2019-02-09"
 +++
 
+
+The MADDVIPR project has been actively working to share their research findings with the DNS community to improve the overall resilience of the DNS ecosystem.
+Here, we provide a comprehensive list of presentations and blog posts detailing the results of our research efforts aimed at improving the overall resiliency of the DNS ecosystem. Our outreach efforts have been targeted towards academic, technical, and governmental environments, and we are proud to share the insights and knowledge gained from our project with the wider community. Browse through our list of presentations and blog posts to learn more about our research and findings.
+
+
+
 {{% table %}}
 # Presentations
 
@@ -26,7 +32,7 @@ date = "2019-02-09"
 | CNSM 2022               | [Assessing e-Government DNS Resilience] (https://maddvipr.org/DINO.pdf) </a>                                                                                                                             | 03 November 2022  | R. Sommese             | Conference             |
 | 5th ICANN DNS Symposium | [DNS Resilience and Centralization: A Data Oriented Analysis] (https://www.icann.org/en/system/files/files/presentation-dns-resilience-centralization-data-oriented-analysis-16nov22-en.pdf)       | 16 November 2022  | R. Sommese, G. Akiwate | Technical Workshop     |
 
-#Blog Posts
+# Blog Posts
 
 
 | Blog Posts | Title                                                                                                                                                                                    |
