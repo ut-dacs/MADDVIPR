@@ -213,6 +213,66 @@ a full census of which IPv4 prefixes in the ISI hitlist are anycast.&rdquo;</p>
 
 <p><a href="http://dl.ifip.org/db/conf/tma/tma2021/tma2021-paper1.pdf">Download</a></p>
 
+<h2 id="hosting-industry-centralization-and-consolidation">Hosting Industry Centralization and Consolidation</h2>
+
+<h3 id="luciano-zembruzki-raffaele-sommese-lisandro-zambenedetti-granville-arthur-selle-jabocs-mattijs-jonker-giovane-moura">Luciano Zembruzki, Raffaele Sommese, Lisandro Zambenedetti Granville, Arthur Selle Jabocs, Mattijs Jonker, Giovane Moura</h3>
+
+<h4 id="ieee-ifip-network-operations-and-management-symposium-2022">IEEE/IFIP Network Operations and Management Symposium 2022</h4>
+
+<p>There have been growing concerns about the concentration and centralization of Internet infrastructure. In this work, we scrutinize the hosting industry on the Internet by using active measurements, covering 19 Top-Level Domains (TLDs). We show how the market is heavily concentrated: <sup>1</sup>&frasl;<sub>3</sub> of the domains are hosted by only 5 hosting providers, all US-based companies. For the country-code TLDs (ccTLDs), however, hosting is primarily done by local, national hosting providers and not by the large American cloud and content providers. We show how shared languages (and borders) shape the hosting market — German hosting companies have a notable presence in Austrian and Swiss markets, given they all share German as official language. While hosting concentration has been relatively high and stable over the past four years, we see that American hosting companies have been continuously increasing their presence in the market related to high traffic, popular domains within ccTLDs — except for Russia, notably.</p>
+
+<p><a href="https://ris.utwente.nl/ws/files/287285411/10.1109_noms54207.2022.9789881.pdf">Download</a></p>
+
+<h2 id="domain-name-lifetimes-baseline-and-threats">Domain Name Lifetimes: Baseline and Threats</h2>
+
+<h3 id="antonia-affinito-raffaele-sommese-gautam-akiwate-stefan-savage-kimberley-claffy-geoffrey-m-voelker-alessio-botta-mattijs-jonker">Antonia Affinito, Raffaele Sommese, Gautam Akiwate, Stefan Savage, Kimberley Claffy, Geoffrey M. Voelker, Alessio Botta, Mattijs Jonker</h3>
+
+<h4 id="tma2022-network-traffic-measurement-and-analysis-conference">TMA2022 Network Traffic Measurement and Analysis Conference</h4>
+
+<p>The domain name system (DNS) is a key componentof the Internet. The DNS is essentially a hierarchical anddistributed database that involves – and is operated by – manyindependent parties that fulfill various roles. Top-level domainssuch as .com and .co.uk are run by registries. Registrants canregister domain names, usually through so-called registrars, butsometimes directly with the TLD registry.Domain names go through a well-defined life-cycle and namesthat are only short-lived in ways break expectation. In thispaper, we study domain name lifetimes at scale and over a tenyear period. We focus on ten prominent TLDs and observe thatunder most, the vast majority of lifetimes (95%) last exactly theminimum registration term of one year. The exception to thisis .com, which sees 40% of lifetimes renewed for at least onemore year. We also identify lifetimes that are suspiciously shortlived (e.g., 80% under .xyz). Using blocklist data we confirmthat about 25% are reportedly malicious and study indicators ifnames are taken down and how quickly. Finally, we empiricallystudy malicious name registration campaigns and show that thisinvolves registrars that offer bulk registration options.</p>
+
+<p><a href="https://tma.ifip.org/2022/wp-content/uploads/sites/11/2022/06/tma2022-paper32.pdf">Download</a></p>
+
+<h2 id="saving-brian-s-privacy-the-perils-of-privacy-exposure-through-reverse-dns">Saving Brian&rsquo;s privacy: the perils of privacy exposure through reverse DNS</h2>
+
+<h3 id="olivier-isaac-van-der-toorn-roland-martijn-van-rijswijk-deij-raffaele-sommese-anna-sperotto-mattijs-jonker">Olivier Isaac van der Toorn, Roland Martijn van Rijswijk - Deij, Raffaele Sommese, Anna Sperotto, Mattijs Jonker</h3>
+
+<h4 id="imc2022-acm-internet-measurement-conference">IMC2022 ACM Internet Measurement Conference</h4>
+
+<p>Given the importance of privacy, many Internet protocols are nowadays designed with privacy in mind (e.g., using TLS for confidentiality). Foreseeing all privacy issues at the time of protocol design is, however, challenging and may become near impossible when interaction out of protocol bounds occurs. One demonstrably not well understood interaction occurs when DHCP exchanges are accompanied by automated changes to the global DNS (e.g., to dynamically add hostnames for allocated IP addresses). As we will substantiate, this is a privacy risk: one may be able to infer device presence and network dynamics from virtually anywhere on the Internet — and even identify and track individuals — even if other mechanisms to limit tracking by outsiders (e.g., blocking pings) are in place.We present a first of its kind study into this risk. We identify networks that expose client identifiers in reverse DNS records and study the relation between the presence of clients and said records. Our results show a strong link: in 9 out of 10 cases, records linger for at most an hour, for a selection of academic, enterprise and ISP networks alike. We also demonstrate how client patterns and network dynamics can be learned, by tracking devices owned by persons named Brian over time, revealing shifts in work patterns caused by COVID-19 related work-from-home measures, and by determining a good time to stage a heist.</p>
+
+<p><a href="https://ris.utwente.nl/ws/portalfiles/portal/287286621/3517745.3561424.pdf">Download</a></p>
+
+<h2 id="retroactive-identification-of-targeted-dns-infrastructure-hijacking">Retroactive identification of targeted DNS infrastructure hijacking</h2>
+
+<h3 id="gautam-akiwate-raffaele-sommese-mattijs-jonker-zakir-durumeric-kimberley-claffy-geoffrey-m-voelker-stefan-savage">Gautam Akiwate, Raffaele Sommese, Mattijs Jonker, Zakir Durumeric, Kimberley Claffy, Geoffrey M. Voelker, Stefan Savage</h3>
+
+<h4 id="imc2022-acm-internet-measurement-conference-1">IMC2022 ACM Internet Measurement Conference</h4>
+
+<p>In 2019, the US Department of Homeland Security issued an emergency warning about DNS infrastructure tampering. This alert, in response to a series of attacks against foreign government websites, highlighted how a sophisticated attacker could leverage access to key DNS infrastructure to then hijack traffic and harvest valid login credentials for target organizations. However, even armed with this knowledge, identifying the existence of such incidents has been almost entirely via post hoc forensic reports (i.e., after a breach was found via some other method). Indeed, such attacks are particularly challenging to detect because they can be very short lived, bypass the protections of TLS and DNSSEC, and are imperceptible to users. Identifying them retroactively is even more complicated by the lack of fine-grained Internet-scale forensic data. This paper is a first attempt to make progress at this latter goal. Combining a range of longitudinal data from Internet-wide scans, passive DNS records, and Certificate Transparency logs, we have constructed a methodology for identifying potential victims of sophisticated DNS infrastructure hijacking and have used it to identify a range of victims (primarily government agencies), both those named in prior reporting, and others previously unknown.</p>
+
+<p><a href="https://ris.utwente.nl/ws/portalfiles/portal/287286585/3517745.3561425.pdf">Download</a></p>
+
+<h2 id="investigating-the-impact-of-ddos-attacks-on-dns-infrastructure">Investigating the impact of DDoS attacks on DNS infrastructure</h2>
+
+<h3 id="raffaele-sommese-kimberley-claffy-roland-martijn-van-rijswijk-deij-arnab-chattopadhyay-alberto-dainotti-anna-sperotto-mattijs-jonker">Raffaele Sommese, Kimberley Claffy, Roland Martijn van Rijswijk - Deij, Arnab Chattopadhyay, Alberto Dainotti, Anna Sperotto, Mattijs Jonker</h3>
+
+<h4 id="imc2022-acm-internet-measurement-conference-2">IMC2022 ACM Internet Measurement Conference</h4>
+
+<p>Denial of Service (DDoS) attacks both abuse and target core Internet infrastructures and services, including the Domain Name System (DNS). To characterize recent DDoS attacks against authoritative DNS infrastructure, we join two existing data sets – DoS activity inferred from a sizable darknet, and contemporaneous DNS measurement data – for a 17-month period (Nov. 20 - Mar. 22). Our measurements reveal evidence that millions of domains (up to 5% of the DNS namespace) experienced a DoS attack during our observation window. Most attacks did not substantially harm DNS performance, but in some cases we saw 100-fold increases in DNS resolution time, or complete unreachability. Our measurements captured a devastating attack against a large provider in the Netherlands (TransIP), and attacks against Russian infrastructure. Our data corroborates the value of known best practices to improve DNS resilience to attacks, including the use of anycast and topological redundancy in nameserver infrastructure. We discuss the strengths and weaknesses of our data sets for DDoS tracking and impact on the DNS, and promising next steps to improve our understanding of the evolving DDoS ecosystem.</p>
+
+<p><a href="https://ris.utwente.nl/ws/files/287286559/3517745.3561458.pdf">Download</a></p>
+
+<h2 id="assessing-e-government-dns-resilience">Assessing e-Government DNS Resilience</h2>
+
+<h3 id="raffaele-sommese-mattijs-jonker-jeroen-van-der-ham-giovane-moura">Raffaele Sommese, Mattijs Jonker, Jeroen van der Ham, Giovane Moura</h3>
+
+<h4 id="international-conference-on-network-and-service-management">International Conference on Network and Service Management</h4>
+
+<p>Electronic government (e-gov) enables citizens and residents to digitally interact with their government via the Internet. Underpinning these services is the Internet Domain Name Systems (DNS), which maps e-gov domain names to Internet addresses. Structuring DNS with multiple levels of redundancy that can withstand stress events such as denial-of-service (DoS) attacks is a challenging task. While the operator community has established best practices to this end, adopting them all involves expert knowledge and resources. In this work, we obtain and study a list of e-gov domain names used by four countries (The Netherlands, Sweden, Switzerland, and the United States) and measure the DNS structuring of these domains. We show the adoption of best practices, inter-country differences such as the use of anycast, and provide recommendations to improve DNS service robustness.</p>
+
+<p><a href="https://www.sidnlabs.nl/downloads/1o9vqrKcm29tkpVzTj7a0Y/c20df98380d70905d8659e25400967b9/report-dns-egov.pdf">Download</a></p>
+
     </main>
 
     
@@ -232,7 +292,7 @@ a full census of which IPv4 prefixes in the ISI hitlist are anycast.&rdquo;</p>
 
     <div class="copy">
         
-        <p>© 2022 - MADDVIPR</p>
+        <p>© 2023 - MADDVIPR</p>
         
     </div>
 
