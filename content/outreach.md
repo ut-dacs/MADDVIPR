@@ -37,6 +37,6 @@ Here, we provide a comprehensive list of presentations and blog posts detailing 
 
 | Blog Posts | Title                                                                                                                                                                                    |
 |------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| APNIC      | <a href="https://blog.apnic.net/2021/12/22/how-widely-adopted-is-anycast-in-the-dns/”>How widely adopted is anycast in the DNS?</a>                                                      |
-| APNIC      | <a href="https://blog.apnic.net/2020/12/15/manycast2-using-anycast-to-measure-anycast/”>Manycast²: Using anycast to measure anycast</a>                                                  |
-| SIDN Labs  | <a href=”https://www.sidnlabs.nl/en/news-and-blogs/resilience-of-dutch-public-services-dns-infrastructure-assessed”>Resilience of Dutch public services' DNS infrastructure assessed</a> |
+| APNIC      | [How widely adopted is anycast in the DNS?](https://blog.apnic.net/2021/12/22/how-widely-adopted-is-anycast-in-the-dns/)                                                     |
+| APNIC      | [Manycast²: Using anycast to measure anycast](https://blog.apnic.net/2020/12/15/manycast2-using-anycast-to-measure-anycast/)                                                  |
+| SIDN Labs  | [Resilience of Dutch public services' DNS infrastructure assessed](https://www.sidnlabs.nl/en/news-and-blogs/resilience-of-dutch-public-services-dns-infrastructure-assessed) |
