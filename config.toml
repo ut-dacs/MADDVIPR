@@ -55,6 +55,11 @@ author = "Raffaele"
     weight = 300
     url = "/contact/"
 [[menu.main]]
+    name = "Organizations"
+    identifier = "organization"
+    weight = 301
+    url = "/organizations/"
+[[menu.main]]
     name = "About"
     identifier = "about"
     weight = 100
